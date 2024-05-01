@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra mais informações me segue nas redes abaixo!
+### Entre em contato via:
  
 <div> 
   <a href="https://www.instagram.com/j_motasantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
